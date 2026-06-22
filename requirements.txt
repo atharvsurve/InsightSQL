@@ -1,0 +1,17 @@
+fastapi
+
+uvicorn
+
+google-genai
+
+sqlalchemy
+
+python-dotenv
+
+psycopg2-binary
+
+pymysql
+
+pyodbc
+
+cx_Oracle
